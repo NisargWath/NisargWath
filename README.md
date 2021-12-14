@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NisargWath
+- 👀 I’m interested in Coding and Entrepreneurship.
+- 🌱 I’m currently learning Reactjs, Django
+- 💞️ I’m looking to collaborate on freelancing projects
+- 📫 How to reach me my contact: 9922093488, my email: nisargwath7@gamil.com
