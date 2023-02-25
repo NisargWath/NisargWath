@@ -1,4 +1,4 @@
-[![MasterHead](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)](https://rishavchanda.io)
+[![MasterHead](https://ezgif.com/maker/ezgif-2-7c560f43-gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nisarg Wath</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
