@@ -39,6 +39,11 @@ I am **Nisarg** and it's amazing to have you here!
 <h4 align="center">Profile stats</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NisargWath&count_private=true&show_icons=true&theme=gotham" /></p>
 
+### 📌 Contribution Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NisargWath&theme=radical" alt="Contribution Graph" />
+</p>
 
 
 
