@@ -27,14 +27,7 @@ I am **Nisarg** and it's amazing to have you here!
 
 
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{NisargWath}/count.svg" alt="vaibhav1663 :: Visitor's Count" /></p>
 
-<p align="center">
-  <a href="https://github.com/NisargWath">
-    <img title="GithubStats" alt="Nisarg's streak" src="https://streak-stats.demolab.com?user=NisargWath&theme=gotham&hide_border=true&mode=weekly"/>
-  </a>
-</p>
 
 <h4 align="center">Profile stats</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NisargWath&count_private=true&show_icons=true&theme=gotham" /></p>
